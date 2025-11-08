@@ -18,6 +18,9 @@ For an optimal understanding the notebooks should be read in the following order
 7. 5511-pr-week-3-model-architecture-eval-i.ipynb
 8. 5511-pr-week-3-model-architecture-eval-ii.ipynb
 
+#### Model Scoring
+9. 5511-pr-week-3-model-scoring.ipynb
+
 The necessary data sets are:
 - train_labels.csv
 - a folder 'train' with .tif files  
